@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MTA API Documentation</title>
+    <link rel="stylesheet" href="css/styles-api.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/themes/prism.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/themes/prism-okaidia.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-core.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/plugins/autoloader/prism-autoloader.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/plugins/line-numbers/prism-line-numbers.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <div class="container1">
+                <h1>MTA API</h1>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="">API</a></li>
+                    <li><a href="http://github.com/HappyRogelio7/mta-api-serverinfo" target="_blank">GitHub</a></li>
+                </ul>
+            </div>
+        </nav>
+        <h1>MTA API Documentation</h1>
+        <p>Welcome to the documentation for the MTA API. This API provides access to server information and data.</p>
+        <h2>Endpoints</h2>
+        <div class="apiget1">
+            <h3>GET</h3><p><strong>/api/:ip/:port</strong></p>
+        </div>
+        <p>Retrieve server information based on IP and port.</p>
+        <h2>Parameters</h2>
+        <p><strong>:ip</strong> - IP address of the server.</p>
+        <p><strong>:port</strong> - Port of the server.</p>
+        <h2>Response</h2>
+        <p>The response is a JSON object containing server information.</p>
+        <pre>
+{
+    "name": "Server Name",
+    "ip": "Server IP",
+    "port": 12345,
+    "password": 0,
+    "players": 10,
+    "maxplayers": 32,
+    "keep": 0,
+    "version": "1.0"
+}
+        </pre>
+        <div id="examples">
+            <h2>Examples</h2>
+            <p>This examples using for this api in different programming languages.</p>
+            <div class="example-item">
+                <h3>JavaScript</h3>
+                <pre class="language-javascript" data-src="./examplesapi/javascript.js"></pre>
+            </div>
+            <div class="example-item">
+                <h3>NodeJS</h3>
+                <pre class="language-javascript" data-src="./examplesapi/nodejs.js"></pre>
+            </div>
+            <div class="example-item">
+                <h3>Python</h3>
+                <pre class="language-python" data-src="./examplesapi/python.py"></pre>
+            </div>
+            <div class="example-item">
+                <h3>Java</h3>
+                <pre class="language-java" data-src="./examplesapi/java.java"></pre>
+            </div>
+            <div class="example-item">
+                <h3>GO</h3>
+                <pre class="language-go" data-src="./examplesapi/go.go"></pre>
+            </div>
+            <div class="example-item">
+                <h3>LUA</h3>
+                <pre class="language-lua" data-src="./examplesapi/lua.lua"></pre>
+            </div>
+            <div class="example-item">
+                <h3>Ruby</h3>
+                <pre class="language-ruby" data-src="./examplesapi/ruby.rb"></pre>
+            </div>
+            <!--div class="example-item">
+                <h3>C#</h3>
+                <pre class="language-javascript" data-src="./examplesapi/c#.c"></pre>
+            </div-->
+        </div>
+
+        <p>-------------------------------------------------------------------------------------------------------------------</p>
+
+        <div id="footer">
+            <p>Created by <a href="https://github.com/HappyRogelio7/" target="_blank">HappyRogelio7</a></p>
+            <p>Powered by <a href="https://github.com/HappyRogelio7/" target="_blank">HappyRogelio7</a> and 
+                <a href="https://twitter.com/KaoryStudios" target="_blank">KaoryStudios</a>.</p>
+            <p>GitHub: <a href="https://github.com/HappyRogelio7/mta-api-serverinfo" target="_blank">GitHub Repo</a></p>
+            <p>Source code: <a href="https://github.com/HappyRogelio7/mta-api-serverinfo" target="_blank">GitHub</a></p>
+        </div>
+    </div>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-javascript.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-python.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-java.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-go.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-lua.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-ruby.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/plugins/autoloader/prism-autoloader.min.js"></script>
+
+   
+</body>
+</html>

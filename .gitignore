@@ -1,0 +1,4 @@
+start.sh
+node_modules
+package-lock.json
+start.bat

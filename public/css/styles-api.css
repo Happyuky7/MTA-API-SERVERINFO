@@ -1,0 +1,162 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #707070;
+}
+
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+nav li {
+    margin: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #f39c12;
+}
+
+.container {
+    background-color: #333;
+    padding: 50px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    width: 700px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+label,
+p {
+    color: #fff;
+}
+
+.apiget1 {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+
+.apiget1 h3 {
+    margin-bottom: 10px;
+    color: #fff;
+    padding: 16px;
+    padding-right: 0px;
+    margin-right: 110px;
+    margin-top: 10px;
+    margin-left: -10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    background-color: #00ff2a;
+}
+
+.apiget1 p {
+    margin-bottom: 10px;
+    color: #fff;
+    padding: 18px;
+    margin-left: 60px;
+    margin-right: 10px;
+    margin-top: -63px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    background-color: #333f4b;
+}
+
+h2 {
+    color: rgb(86, 255, 218);
+}
+
+pre {
+    color: rgb(255, 255, 255);
+    background-color: rgb(51, 63, 75);
+    padding: 10px;
+    border-radius: 4px;
+    overflow: auto;
+}
+
+.example-item h3 {
+    color: #68ff81;
+}
+
+
+a {
+    color: #ff0f0f;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #ef9393;
+}
+
+.footer {
+    margin-top: 20px;
+    color: #fff;
+    font-size: 12px;
+}
+
+.footer a {
+    color: #fff;
+}
+
+.footer a:hover {
+    color: #ef9393;
+}
+
+.footer p {
+    margin: 0;
+}
+
+.footer p a {
+    color: #fff;
+}
+
+.footer p a:hover {
+    color: #ef9393;
+}
+
+
+
+
+
+
