@@ -6,7 +6,7 @@
 
 ## API Documentation:
 
-[Click here](https://mtaapiresquestinfo.kaoryhosting/api/)
+[Click here](https://mtaapiresquestinfo.kaoryhosting.xyz/api)
 
 ## Examples:
 
