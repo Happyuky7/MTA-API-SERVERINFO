@@ -10,13 +10,13 @@
 
 ## Examples:
 
-[Click Here for view examples in different programming languages](https://github.com/HappyRogelio7/MTA-API-SERVERINFO/tree/master/public/examplesapi/)
+[Click Here for view examples in different programming languages](https://github.com/Happyuky7/MTA-API-SERVERINFO/tree/master/public/examplesapi/)
 
 ---
 
 ## Contributors:
 
-- [HappyRogelio7](https://github.com/HappyRogelio7) | Main Development and API Hosting. 
+- [Happyuky7](https://github.com/Happyuky7) | Main Development and API Hosting. 
 
 ---
 
@@ -25,7 +25,7 @@
 - Clone this repository.
 
 ```bash
-$ git clone https://github.com/HappyRogelio7/MTA-API-SERVERINFO.git
+$ git clone https://github.com/Happyuky7/MTA-API-SERVERINFO.git
 ```
 
 - Join this repository foulder.
