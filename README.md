@@ -76,7 +76,7 @@ https//0.0.0.0:3000/
 
 ---
 
-© Copyright HappyRogelio7 2017-2023 ©
+© Copyright Happyuky7 2017-2024 ©
 RIGHTS RESERVED
 
 ## Special Thanks
