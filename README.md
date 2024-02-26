@@ -28,7 +28,7 @@
 $ git clone https://github.com/Happyuky7/MTA-API-SERVERINFO.git
 ```
 
-- Join this repository foulder.
+- Join this repository folder.
 
 ```bash
 $ cd MTA-API-SERVERINFO
