@@ -7,7 +7,7 @@ import java.net.URL;
 public class Main {
     public static void main(String[] args) {
         try {
-            URL url = new URL("https://mtaapiresquestinfo.kaoryhosting.xyz/api/127.0.0.1/12345");
+            URL url = new URL("https://mtaapiresquestinfo.happy7.xyz/api/127.0.0.1/12345");
             HttpURLConnection connection = (HttpURLConnection) url.openConnection();
             connection.setRequestMethod("GET");
             BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));

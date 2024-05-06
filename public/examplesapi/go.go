@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	resp, err := http.Get("https://mtaapiresquestinfo.kaoryhosting.xyz/api/127.0.0.1/12345")
+	resp, err := http.Get("https://mtaapiresquestinfo.happy7.xyz/api/127.0.0.1/12345")
 	if err != nil {
 		fmt.Println("Error:", err)
 		return

@@ -2,11 +2,11 @@
 
 ### Is a simple api for MTA servers status.
 
-## [Using hostend API Click HERE](https://mtaapiresquestinfo.kaoryhosting.xyz/)
+## [Using hostend API Click HERE](https://mtaapiresquestinfo.happy7.xyz/)
 
 ## API Documentation:
 
-[Click here](https://mtaapiresquestinfo.kaoryhosting.xyz/api)
+[Click here](https://mtaapiresquestinfo.happy7.xyz/api)
 
 ## Examples:
 
@@ -69,10 +69,6 @@ https//0.0.0.0:3000/
 [My website](https://happyrogelio7.xyz), My website
 
 [Discord](https://discord.gg/3EebYUyeUX), Support My Server Discord
-
-[Kaory Studios](https://kaorystudios.xyz), Website Kaory Studios
-
-[Kaory Studios Discord](https://discord.gg/Gw7m8kC), Support Kaory Studios
 
 ---
 
