@@ -66,7 +66,7 @@ https//0.0.0.0:3000/
 
 ## Aditional Information
 
-[My website](https://happyrogelio7.xyz), My website
+[My website](https://happy7.xyz), My website
 
 [Discord](https://discord.gg/3EebYUyeUX), Support My Server Discord
 
